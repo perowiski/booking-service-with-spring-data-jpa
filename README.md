@@ -1,5 +1,7 @@
 # Peter Oziegbe
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d94d3a2ed8d546c1a5a5bf43f2ff02d9)](https://www.codacy.com/gh/perowiski/booking-service-with-spring-data-jpa/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=perowiski/booking-service-with-spring-data-jpa&amp;utm_campaign=Badge_Grade)
+
 ## A demostration of a SpringBoot Data JPA application with Booking service as a case study.
 
 This application levarage on Spring Data JPA to perform a booking for a client of the application.
