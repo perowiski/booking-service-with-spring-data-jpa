@@ -7,7 +7,7 @@
 This application levarage on Spring Data JPA to perform a booking for a client of the application.
 
 
-## Implentation detail
+## Implentation detailS
 
 The implementation leverages on a typical conponents of an enterprise of an application that interacts with each other. The are as follows.
 
